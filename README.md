@@ -10,10 +10,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/goulartcju/goulartcju/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Tecnologias que estou aprendendo</h3>
 
 ###
