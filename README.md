@@ -1,5 +1,4 @@
-<h3 align="left">Olá! Sou a Júlia Goulart Cunha!</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D501F7&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+J%C3%BAlia!+;Bem-vindo+ao+meu+GitHub)](https://git.io/typing-svg)
 ###
 
 <div align="left">
